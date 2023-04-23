@@ -70,3 +70,7 @@ To deploy this project run
 
 [MIT](https://rapidapi.com/openai-api-openai-api-default/api/openai80/)
 
+## Support
+
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)   
+ [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
