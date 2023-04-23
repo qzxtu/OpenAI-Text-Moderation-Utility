@@ -4,7 +4,7 @@ A Node.js utility that uses the OpenAI text moderation API to parse text content
 
 ## Installation
 
-- Go to the RapidAPI homepage: https://rapidapi.com/
+- Go to the RapidAPI homepage: [RapidAPI](https://rapidapi.com/openai-api-openai-api-default/api/openai80/)
 
 - Create an account or log in if you already have one.
 
@@ -24,7 +24,7 @@ A Node.js utility that uses the OpenAI text moderation API to parse text content
     
 ## Documentation
 
-- Make sure you have Node.js installed on your computer. You can download it from the official website: https://nodejs.org
+- Make sure you have Node.js installed on your computer. You can download it from the official website: [Node.JS](https://nodejs.org)
 
 - Create a new JavaScript file in your favorite code editor.
 
